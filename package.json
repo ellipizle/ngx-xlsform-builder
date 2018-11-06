@@ -1,6 +1,12 @@
 {
   "name": "ngx-xlsform-builder",
   "version": "0.0.0",
+    "keywords": [
+    "angular",
+    "xlsform",
+    "builder",
+    "typescript"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
