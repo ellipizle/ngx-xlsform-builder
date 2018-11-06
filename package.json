@@ -1,12 +1,22 @@
 {
   "name": "ngx-xlsform-builder",
   "version": "0.0.0",
+   "description": "Xlsform builder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellipizle/ngx-xlsform-builder/tree/master"
+  },
+  "bugs": {
+    "url": "https://github.com/ellipizle/ngx-xlsform-builder/tree/master/issues"
+  },
+  "author": "https://github.com/ellipizle/ngx-xlsform-builder/graphs/contributors",
     "keywords": [
     "angular",
     "xlsform",
     "builder",
     "typescript"
   ],
+    "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -15,7 +25,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^6.1.0",
     "@angular/common": "^6.1.0",
